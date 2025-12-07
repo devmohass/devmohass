@@ -1,28 +1,32 @@
-# Hi 👋, I'm Mohamed Hassan Ali (devmohass)  
+# Hi 👋, I'm Mohamed Hassan Ali
 
-🔭 I’m currently working as a **Full Stack Developer & Mobile App Developer**  
-
-🌱 I’m actively learning **advanced React, Java Spring Boot, and mobile app development**  
-
-👯 I’m open to collaborating on **Web development & System development projects**  
-
-👨‍💻 Explore all of my projects at [https://github.com/devmohass](https://github.com/devmohass)  
-
-💬 My technical expertise includes **HTML, CSS, Tailwind CSS, JavaScript, React, Java, Spring Boot, SQL, and mobile app development**  
-
-📫 Contact me via: **mohamedhassandahir9@gmail.com**  
-
-📄 Professional experience and portfolio: [https://github.com/devmohass](https://github.com/devmohass)  
+### Full Stack Developer | MERN Stack | Mobile App Developer
+Building modern web & mobile experiences with clean code and scalable architecture.
 
 ---
 
-## 🛠 Technical Skills
+## 🌱 Currently Learning
+**Dart, Flutter, MongoDB, Node.js**
 
-**Frontend:** HTML, CSS3, Tailwind CSS, JavaScript, React  
-**Backend:** Java, Spring Boot, Node.js, Express.js, REST APIs  
-**Databases:** SQL (PostgreSQL, MySQL), MongoDB  
-**Mobile:** Flutter (in progress)  
-**Tools & Platforms:** Git, GitHub, VS Code, Microsoft Office  
+---
+
+## 👯 Looking to Collaborate On
+Web development & system development projects
+
+---
+
+## 👨‍💻 Projects
+All of my projects are available at [GitHub](https://github.com/devmohass)
+
+---
+
+## 💬 Ask Me About
+HTML, CSS, Tailwind CSS, JavaScript, Java, PHP, React, Spring Boot, Node.js
+
+---
+
+## 📫 How to Reach Me
+Email: mohamedhassandahir9@gmail.com
 
 ---
 
@@ -35,6 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
@@ -45,6 +50,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
 </p>
-
-
-
